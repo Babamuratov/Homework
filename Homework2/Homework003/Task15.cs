@@ -18,4 +18,3 @@ void Examination (int NumberDay)
 }
 
 Examination(NumberDay);
-
