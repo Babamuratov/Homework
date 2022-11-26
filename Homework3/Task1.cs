@@ -115,4 +115,3 @@ PrintBad(arr);
 int even = CountIsEven(arr);
 int[] newArr = Solution(arr, even);
 Console.WriteLine(PrintGood(newArr));
-
