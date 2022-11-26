@@ -21,3 +21,4 @@ int number = Convert.ToInt32(Console.ReadLine());
 
 int sumNumbers = SumNumbers(number);
 Console.WriteLine("Сумма цифр числа: " + sumNumbers);
+
