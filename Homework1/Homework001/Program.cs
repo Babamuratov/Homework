@@ -10,7 +10,7 @@ Console.Write("max = ");
 Console.WriteLine(max);
 
 if (a < min) min = a;
-if (b < min) min = b;
+if (b < min) min = a;
 
 Console.Write("min = ");
 Console.WriteLine(min);
